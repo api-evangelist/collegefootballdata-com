@@ -1,0 +1,32 @@
+aid: collegefootballdata-com
+name: CollegeFootballData.com
+description: "Unofficial detailed American college football statistics, records, and results API"
+url: https://collegefootballdata.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Sports & Fitness"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Sports And Fitness
+  - Public APIs
+apis:
+  - name: CollegeFootballData.com
+    description: "Unofficial detailed American college football statistics, records, and results API"
+    humanURL: https://collegefootballdata.com
+    baseURL: https://collegefootballdata.com
+    tags:
+      - Sports And Fitness
+    properties:
+      - type: Documentation
+        url: https://collegefootballdata.com
+common:
+  - type: Website
+    url: https://collegefootballdata.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
