@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://collegefootballdata.com
 common:
+  - type: DomainSecurity
+    url: security/collegefootballdata-com-domain-security.yml
   - type: Website
     url: https://collegefootballdata.com
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://blog.collegefootballdata.com/rss/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
