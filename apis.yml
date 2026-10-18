@@ -41,7 +41,8 @@ apis:
   - name: CollegeFootballData.com
     description: "Unofficial detailed American college football statistics, records, and results API"
     humanURL: https://collegefootballdata.com
-    tags:
+    tags: []
+    tags_raw:
       - Sports And Fitness
     properties:
       - type: Documentation
